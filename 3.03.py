@@ -139,3 +139,10 @@ import pickle
 # Employee.company="QuickCorp"
 # print(Employee.get_company())
 
+
+
+print("Hello, GitHub! I made changes.")
+print("Hello, GitHub! I made changes.")
+print("To clone a repository, use the following command:")
+print("git clone <repository_URL>")
+print("This creates a local copy of the project from GitHub.")
